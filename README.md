@@ -32,7 +32,7 @@ HTML • CSS • React.js • Responsive Design
 
 ### Backend
 
-Node.js • Express.js
+Node.js • Express.js • SQL • MongoDB
 
 ### Tools
 
