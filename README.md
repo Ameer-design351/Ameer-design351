@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ameer-design351/Ameer-design351/main/ameerunnisa.png" alt="Ameerunnisa Khan" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ameer-design351/Ameer-design351/main/ameerunnisa(2).png" alt="Ameerunnisa Khan" width="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ameerunnisa Khan</h1>
