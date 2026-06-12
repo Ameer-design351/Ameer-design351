@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ameer-design351/Ameer-design351/main/ameerunnisa(2).png" alt="Ameerunnisa Khan" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ameer-design351/Ameer-design351/main/ameerunnisa%20(2).png" width="100%" alt="Ameerunnisa Khan">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ameerunnisa Khan</h1>
@@ -70,8 +70,6 @@ Civic Issue Reporting Portal developed during Infosys Springboard MERN Internshi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-design351&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ameer-design351/Ameer-design351/main/ameerunnisa.png" alt="Ameerunnisa Khan" width="120"/>
-</p>
+
 
 ⭐ Thanks for visiting my profile!
